@@ -1,2 +1,2 @@
-# punto
-proyecro2
+# proyecto
+practicas
